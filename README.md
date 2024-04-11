@@ -11,7 +11,9 @@ This is a simple chat application built using Winsock (Windows Socket) library i
 ## Introduction
 
 The Chat Application is designed to facilitate real-time communication between multiple clients connected to a central server. It enables users to exchange messages and engage in conversations over a network.
-
+## Screenshots
+![Screenshot (270)](https://github.com/Aditya-2002/Chat-Application-with-Networking/assets/88263450/cfddaa6d-0f59-4d53-be9d-fe0e65522233)
+![Screenshot (271)](https://github.com/Aditya-2002/Chat-Application-with-Networking/assets/88263450/c1d1d24e-3f16-47d1-a9b3-56c09d0974f8)
 
 ## Features
 
